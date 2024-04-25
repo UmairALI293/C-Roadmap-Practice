@@ -8,8 +8,11 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+<<<<<<< HEAD
   <ItemGroup>
     <PackageReference Include="EntityFramework" Version="6.4.4" />
   </ItemGroup>
 
+=======
+>>>>>>> 5797e4559998806c9a77fd61d932beec47c70149
 </Project>
